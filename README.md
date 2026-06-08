@@ -12,7 +12,7 @@ A arquitetura é composta por dois containers Docker integrados em uma rede priv
 
 ## Arquitetura Macro
 
-![Arquitetura VitaOrbit](Arquitetura-VitaOrbit-DevOps.png)
+![Arquitetura VitaOrbit](Arquitetura-VitaOrbit.png)
 
 ---
 
